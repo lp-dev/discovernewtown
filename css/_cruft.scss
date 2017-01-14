@@ -1,0 +1,300 @@
+/*.media-body {
+	max-width: 220px;
+	overflow: scroll;
+}*/
+
+.slidetext{
+	margin: 2% 5%;
+}
+
+.hidemenu { 
+   display: none; 
+}
+
+.hideindexinfo { 
+   display: none; 
+}
+
+.showmap{
+	margin-bottom:10px;
+}
+
+.hidemap{ 
+   display: none; 
+}
+
+
+body{
+	text-decoration: none;
+}
+
+h1, h2{
+	margin:0px;
+}
+
+h3{
+	display: inline;
+}
+
+h4{
+	font-weight: bold;
+}
+
+nav{
+	padding-top: 10px;
+}
+
+p{
+	font-size: 1.3em;
+}
+
+.conmarg{
+	margin-bottom: 200px;
+}
+
+.buttonmenu{
+	width: 100%;
+	text-align: left;
+}
+
+.twentypad{
+	margin-top: 20px;
+}
+
+.twentyunderpad{
+	margin-bottom: 20px;
+}
+
+.tenpad{
+	margin-top: 10px;
+}
+
+.footerbuttons{
+	margin-bottom: 10px;
+	font-size: 1.2em;
+	font-weight: bold;
+}
+
+.headerelement{
+	margin-bottom: 10px;
+	font-size: 1.2em;
+	font-weight: bold;
+}
+
+
+.textrestrict{
+	max-width: 100%;
+	min-width: 100%;
+}
+
+.newsletterinput, .contactinput{
+	margin-top: 20px;
+}
+
+.contactmessage{
+	margin: 15px;
+}
+
+.stretch{
+	width:100%;
+}
+
+.joinscroll{
+	padding-bottom: 150px;
+}
+
+.signupsend{
+	margin-top: 20px;
+	float: right;
+}
+
+.contactimg, .homeimg{
+	width: 40px;
+	height: 40px;
+	margin-right:10px;
+}
+
+.joinimg, .filterimg{
+	width: 25px;
+	height: 25px;
+	margin-right:10px;
+}
+
+.signimg{
+	width: 40px;
+	height: 40px;
+}
+
+.languageimg{
+	width: 40px;
+	height: 30px;
+}
+
+.menuimg{
+	width: 24px;
+	height: 24px;
+	margin-right: 10px;
+}
+
+.helpimg, .premiumimg, .requiredimg{
+	width: 24px;
+	height: 24px;
+	margin-left: 10px;
+}
+
+.listingimg{
+	width: 17px;
+	height:17px;
+	margin-right: 4px;
+}
+
+.listingbtn{
+	font-size: 9.1pt;
+}
+
+.mapbuffer{
+	margin: 10px 0px 20px 0px;
+}
+
+.sectionbuffer{
+	margin-bottom: 20px;
+}
+
+.buttonbuffer{
+	margin-top: 10px;
+}
+
+.fieldbuffer{
+	margin-bottom: 10px;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.listingpadding, .holdermiddle{
+	margin-left: 0px;
+	padding-left: 0px;
+	margin-right: 0px;
+	padding-right: 0px;
+}
+
+#carouselcommunity{
+	margin-bottom: 10px;
+}
+
+.communitypadding{
+	margin-left: 0px;
+	margin-bottom: 20px;
+	padding-left: 0px;
+}
+
+.menutitle{
+	text-align: left;
+	font-weight: bold;
+	font-size: 1.5em;
+}
+
+.fooddrinkfilter{
+	display: none;
+}
+
+.showmenu{
+	margin-bottom:10px;
+}
+
+.menuimgtoggle{
+	width: 24px;
+	height: 24px;
+	margin-right: 10px;
+}
+
+.listimg{
+	margin-bottom: 10px;
+}
+
+#carouselpremium{
+	margin-bottom: 10px;
+}
+
+.google-maps {
+    position: relative;
+    padding-bottom: 70%; // (450 ?? 500 = 0.9 = 90%)
+    height: 0;
+    overflow: hidden;
+}
+.google-maps iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.facebook-posts {
+    position: relative;
+    padding-bottom: 70%;
+    height: 0;
+    overflow: hidden;
+}
+
+.facebook-posts-inner{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.middlebtmpad{
+	padding-bottom: 20px;
+}
+
+.google-maps-listing {
+    position: relative;
+    padding-bottom: 47.5%;
+    height: 0;
+    overflow: hidden;
+}
+
+.google-maps-listing iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.fieldpad{
+	margin-bottom: 10px;
+}
+
+.titlepad{
+	margin-bottom: 10px;
+	margin-top: 20px;
+}
+
+.check{
+	font-size: 1.2em;
+}
+
+.checkpad{
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+.sti{
+	font-size: 3em;
+}
+
+.sst{
+	font-size: 15pt;
+}
+
+.ste{
+	font-size: 10pt;
+}
+
+iframe, object, embed{
+	max-width: 100%;
+	max-height: 100%;
+
+}

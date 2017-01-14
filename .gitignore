@@ -1,1 +1,5 @@
 connect.php
+*.map
+.sass-cache
+main.css
+
